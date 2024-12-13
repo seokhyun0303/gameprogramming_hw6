@@ -1,2 +1,0 @@
-game_hw1_Data filter=lfs diff=lfs merge=lfs -text
-*.resS filter=lfs diff=lfs merge=lfs -text
